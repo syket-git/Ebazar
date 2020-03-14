@@ -24,7 +24,35 @@ ul li a:hover{
     background-color: #95a5a6;
 }
 
+.subscribe-form input{
+    width: 552px;
+    margin-top: 26px;
+    height: 39px;
+    border-radius: 20px;
+    border: 2px solid #7d0606;
+    padding: 13px;
+}
+.subscribe-form a{
+    margin-left: -37px;
+    color: #7d0606;
+}
+.top{
+    margin-top: 20px;
+}
+.top a{
+    font-size: 20px;
+    color: #7d0606;
+}
+input:focus {
+    outline: -webkit-focus-ring-color auto 0px;
+}
 
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 13px;
+}
 
 
 
